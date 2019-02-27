@@ -2,9 +2,16 @@
 
 > A Vue.js project
 
+Real time chat app build with VUE.js
+
+# Quick look at the app:
+
+<img src="chat1.png" alt="recipies foto" align="center" />
+<img src="chat2.png" alt="recipies foto" align="center" />
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
